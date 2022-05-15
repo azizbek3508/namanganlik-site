@@ -1,0 +1,75 @@
+li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: #111 !important;
+}
+
+/* Header start */
+
+.header {
+    background: #e8e8e8;
+}
+.head-select {
+    padding: 8px 20px;
+    margin: 0 10px;
+    border: none;
+    border-radius: 5px;
+    transform: translateY(3px);
+}
+
+/* navbar */
+
+.navbar ul {
+    width: 100%;
+}
+
+/* footer */
+
+.namangon {
+    padding: 15px 15px;
+    background-color: #0d3dcd;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+.about {
+    width: 44%;
+}
+
+/* form */
+
+.napishite {
+    width: 50%;
+}
+
+.podpisatsa {
+    width: 36%;
+    height: 38vh;
+    margin: 0 auto;
+    background-color: #c0c0c0;
+    color: #fff;
+    box-shadow: 10px 10px 20px #3a3838;
+    padding: 20px;
+    border-radius: 7px;
+    overflow: hidden;
+}
+
+.link a {
+    margin-bottom: 18px;
+    display: block;
+    transition: color 0.5s;
+}
+
+.link a:hover{
+    color: #0d3dcd !important;
+}
+
+.icons img {
+    width: 35%;
+}
+
+.input-with {
+    width: 50%;
+}
